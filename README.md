@@ -34,8 +34,8 @@
 
 # File Submission:
         This assignment includes the following attchments:
-                
-                A readme.md file
+                A PyCitySchools folder that contains a jupyter source, a resource folder, and an Images Folder that contains screenshots of the required results
+                A Readme.md file
 
 # Acknowledgements
         **Internet Search: I utilized Google Search and slack overflow to research coding concepts, algorithms, and best practices.
